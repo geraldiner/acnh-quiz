@@ -19,8 +19,10 @@ A quiz game based on the real and fake paintings found in Animal Crossing: New H
 
 Check out other stuff I've worked on:
 
-**Where's the Magic?:** https://github.com/geraldiner/magical-movies
+**Rehabitter:** https://github.com/geraldiner/rehabitter
 
-**Habit Reset:** https://github.com/geraldiner/habit-reset
+**K.K. Radio:** https://github.com/geraldiner/kk-radio
 
-**ACNH Quotes:** https://github.com/geraldiner/acnh-quotes
+**Interactive Piano:** https://github.com/geraldiner/piano
+
+**Pom Poko Pomodoro:** https://github.com/geraldiner/pom-poko-pomodoro
